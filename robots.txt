@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-lo4t8d.lapinandwolf.co.nz/sitemap.xml
